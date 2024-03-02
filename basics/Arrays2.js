@@ -21,3 +21,4 @@ const marvel_heros = ["captain america", "iron man", "vision"]
 
 console.log(Array.isArray('isha'));
 console.log(Array.from("isha"));
+console.log(Array.from({name: "isha"})); // interesting case
